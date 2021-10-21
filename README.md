@@ -5,7 +5,7 @@ Model of  Linear Regression
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-A simple model of Linear Regression to predict the price of cars using Horse Power as input.
+Using a simple model of Linear Regression to predict the price of cars using Horse Power as input.
 
 
 
